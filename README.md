@@ -1,0 +1,2 @@
+pretty simple python application on Command Design Pattern,achieving Open/Closed Principal and Single Responsibility.
+a remote object <invoker> is used to turn lights on for 5 seconds,turning it off afterwards.
